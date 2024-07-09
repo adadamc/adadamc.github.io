@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d2e9d47.css",
-    "main.js": "/static/js/main.68301369.js",
+    "main.js": "/static/js/main.326bcdff.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/trips.txt": "/static/media/trips.eb0754e29eceb335112a.txt",
     "static/media/SwordFightingDG.png": "/static/media/SwordFightingDG.5168f9aaa9d756b45e5a.png",
@@ -20,11 +20,11 @@
     "index.html": "/index.html",
     "static/media/routes.txt": "/static/media/routes.1e87b1adb0f445268062.txt",
     "main.1d2e9d47.css.map": "/static/css/main.1d2e9d47.css.map",
-    "main.68301369.js.map": "/static/js/main.68301369.js.map",
+    "main.326bcdff.js.map": "/static/js/main.326bcdff.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d2e9d47.css",
-    "static/js/main.68301369.js"
+    "static/js/main.326bcdff.js"
   ]
 }
